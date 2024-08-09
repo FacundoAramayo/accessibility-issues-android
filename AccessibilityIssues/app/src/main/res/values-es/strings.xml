@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AccessibilityIssues</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_dashboard">Panel</string>
+    <string name="title_notifications">Notificaciones</string>
+    <string name="welcome_to_finance_app">Bienvenido a Finance App</string>
+    <string name="your_financial_companion">Tu compañero de finanzas.</string>
+    <string name="terms_and_conditions">Suscríbase ahora para obtener un %s de descuento. Válido durante 30 días. Se aplican términos y condiciones.</string>
+    <string name="go">Ir</string>
+    <string name="your_status">Tu estado.</string>
+    <string name="discount">de descuento!</string>
+    <string name="check_your_messages">Revisa tus mensajes.</string>
+    <string name="subscribe_to_get_discounts">Suscríbete ahora para obtener descuentos.</string>
+    <string name="complete_the_form">Completa el formulario</string>
+    <string name="name">Nombre</string>
+    <string name="email">E-mail</string>
+    <string name="password">Contraseña</string>
+    <string name="submit">Enviar</string>
+    <string name="discount_voucher">¡Recibiste un cupón de descuento de %s!</string>
+    <string name="refer_a_friend">Refiere a un amigo y gana $20.</string>
+    <string name="refer_a_friend_description">Refiere a un amigo y participa por $20 de descuento en tu suscripción.</string>
+</resources>

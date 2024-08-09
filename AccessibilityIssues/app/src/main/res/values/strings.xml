@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AccessibilityIssues</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="welcome_to_finance_app">Welcome to Finance App</string>
+    <string name="your_financial_companion">Your financial companion.</string>
+    <string name="terms_and_conditions">Subscribe now to get a %s discount. Valid for 30 days. Terms and conditions apply.</string>
+    <string name="go">Go</string>
+    <string name="your_status">Your status.</string>
+    <string name="discount">discount!</string>
+    <string name="check_your_messages">Check your messages</string>
+    <string name="subscribe_to_get_discounts">Subscribe to get discounts!</string>
+    <string name="complete_the_form">Complete the form</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="submit">Submit</string>
+    <string name="discount_voucher">You received a %s discount voucher!</string>
+    <string name="refer_a_friend">Refer a friend and earn $20.</string>
+    <string name="refer_a_friend_description">Refer a friend and get $20 off your subscription.</string>
+</resources>
