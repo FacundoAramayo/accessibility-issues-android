@@ -1,6 +1,7 @@
 package fcode.demo.accessibilityissues.ui.form
 
 import android.os.Bundle
+import android.view.inputmethod.EditorInfo
 import androidx.appcompat.app.AppCompatActivity
 import fcode.demo.accessibilityissues.databinding.ActivityFormBinding
 
@@ -16,6 +17,12 @@ class FormActivity : AppCompatActivity() {
 
         binding.actionButton.setOnClickListener {
             finish()
+        }
+        binding.editTextPassword.setOnEditorActionListener { v, actionId, event ->
+            if (actionId == EditorInfo.IME_ACTION_DONE) {
+                finish()
+            }
+            return@setOnEditorActionListener true
         }
     }
 
