@@ -31,6 +31,7 @@ class HomeFragment : Fragment() {
 
         binding.termsAndConditions.text = getString(R.string.terms_and_conditions, "15%")
 
+        binding.actionButton.contentDescription = getString(R.string.go_to_subscribe_form)
         binding.actionButton.setOnClickListener {
             val intent = Intent(activity, FormActivity::class.java)
             requireActivity().startActivity(intent)

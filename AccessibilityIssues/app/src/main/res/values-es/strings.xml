@@ -6,8 +6,10 @@
     <string name="title_notifications">Notificaciones</string>
     <string name="welcome_to_finance_app">Bienvenido a Finance App</string>
     <string name="your_financial_companion">Tu compañero de finanzas.</string>
+    <string name="financial_strategy">Nuestra estrategia financiera consiste en destinar 20% a ahorros, 20% al alquiler, 20% a los gastos mensuales, 20% al retiro y 20% a inversiones en la bolsa.</string>
     <string name="terms_and_conditions">Suscríbase ahora para obtener un %s de descuento. Válido durante 30 días. Se aplican términos y condiciones.</string>
     <string name="go">Ir</string>
+    <string name="go_to_subscribe_form">Ir al formulario de suscripción.</string>
     <string name="your_status">Tu estado.</string>
     <string name="discount">de descuento!</string>
     <string name="check_your_messages">Revisa tus mensajes.</string>

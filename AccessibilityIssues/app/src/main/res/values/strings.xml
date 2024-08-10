@@ -5,8 +5,10 @@
     <string name="title_notifications">Notifications</string>
     <string name="welcome_to_finance_app">Welcome to Finance App</string>
     <string name="your_financial_companion">Your financial companion.</string>
+    <string name="financial_strategy">Our financial strategy is to allocate 20% to savings, 20% to rent, 20% to monthly expenses, 20% to retirement and 20% to investments in the stock market.</string>
     <string name="terms_and_conditions">Subscribe now to get a %s discount. Valid for 30 days. Terms and conditions apply.</string>
     <string name="go">Go</string>
+    <string name="go_to_subscribe_form">Go to subscribe form.</string>
     <string name="your_status">Your status.</string>
     <string name="discount">discount!</string>
     <string name="check_your_messages">Check your messages</string>
