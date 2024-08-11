@@ -75,7 +75,7 @@
         android:layout_height="wrap_content"
         android:text="@string/go"
         android:fontFamily="sans-serif-smallcaps"
-        style="@style/Widget.AppCompat.Button.Colored"
+        style="@style/AppButton"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

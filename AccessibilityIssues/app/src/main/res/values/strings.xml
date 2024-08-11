@@ -11,6 +11,8 @@
     <string name="go_to_subscribe_form">Go to subscribe form.</string>
     <string name="your_status">Your status.</string>
     <string name="discount">discount!</string>
+    <string name="discount_param">%s discount!</string>
+    <string name="save_money_now">Save 15% now!</string>
     <string name="check_your_messages">Check your messages</string>
     <string name="subscribe_to_get_discounts">Subscribe to get discounts!</string>
     <string name="complete_the_form">Complete the form</string>

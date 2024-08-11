@@ -12,6 +12,8 @@
     <string name="go_to_subscribe_form">Ir al formulario de suscripción.</string>
     <string name="your_status">Tu estado.</string>
     <string name="discount">de descuento!</string>
+    <string name="discount_param">¡%s de descuento!</string>
+    <string name="save_money_now">¡Ahorra un 15%!</string>
     <string name="check_your_messages">Revisa tus mensajes.</string>
     <string name="subscribe_to_get_discounts">Suscríbete ahora para obtener descuentos.</string>
     <string name="complete_the_form">Completa el formulario</string>
