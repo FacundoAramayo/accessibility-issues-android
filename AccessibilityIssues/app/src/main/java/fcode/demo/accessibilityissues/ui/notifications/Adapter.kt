@@ -14,12 +14,16 @@ class Adapter(
 
     inner class ViewHolder(private val binding: ListItemBinding) : RecyclerView.ViewHolder(binding.root) {
         fun bind(item: NotificationItem) {
+            val context = binding.root.context
             binding.title.text = item.title
             binding.date.text = item.date
             binding.content.text = item.content
             binding.actionButton.isVisible = item.action
-            binding.actionButton.text = binding.root.context.getString(R.string.go)
+            binding.actionButton.text = context.getString(R.string.go)
+            binding.actionButton.contentDescription = context.getString(R.string.go_to_subscribe_form)
             binding.actionButton.setOnClickListener { onClickListener.invoke() }
+            val customLabel = "${context.getString(R.string.notification_of, item.date)}, ${item.title}, ${item.content}"
+            binding.root.contentDescription = customLabel
         }
     }
 

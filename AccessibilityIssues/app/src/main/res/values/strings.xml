@@ -23,4 +23,5 @@
     <string name="discount_voucher">You received a %s discount voucher!</string>
     <string name="refer_a_friend">Refer a friend and earn $20.</string>
     <string name="refer_a_friend_description">Refer a friend and get $20 off your subscription.</string>
+    <string name="notification_of">Notification of %s</string>
 </resources>

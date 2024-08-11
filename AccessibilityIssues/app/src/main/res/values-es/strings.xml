@@ -24,4 +24,5 @@
     <string name="discount_voucher">¡Recibiste un cupón de descuento de %s!</string>
     <string name="refer_a_friend">Refiere a un amigo y gana $20.</string>
     <string name="refer_a_friend_description">Refiere a un amigo y participa por $20 de descuento en tu suscripción.</string>
+    <string name="notification_of">Notificación del %s</string>
 </resources>
